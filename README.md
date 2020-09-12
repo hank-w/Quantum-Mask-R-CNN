@@ -2,7 +2,7 @@
 Combing quantum computing using Qiskit with my Mask R-CNN model using PyTorch.
 
 
-![alt text](https://github.com/hank-w/Quantum-Mask-R-CNN/tree/master/images/Renders/Abbey%20Road%20Beatles%20MASK%20R-CNN.png)
+![alt text](https://github.com/hank-w/Quantum-Mask-R-CNN/blob/master/images/Renders/Abbey%20Road%20Beatles%20MASK%20R-CNN.png)
 
 You may be asking, what is Quantum Mask R-CNN
 
