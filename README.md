@@ -180,5 +180,23 @@ only images directly in the directory will be ran, the images in subfolders are 
 Once your at this step, you can keep running the cell over and over again, changing images inbetween! Make sure click the box each time you run 
 to see the output, which will be png that you can open in a new tab and save as your desktop background!
 
+
+
 <a id="resources"></a>
 ## Resources
+ If you would like to read more about Mask R-CNN or Quantum Computing, you can read the following:
+ 
+ - [Qiskit](https://qiskit.org/)
+- [Mask R-CNN](https://arxiv.org/abs/1703.06870)
+- [RetinaNet](https://arxiv.org/abs/1708.02002)
+- [Faster R-CNN](https://arxiv.org/abs/1506.01497)
+- [RPN](https://arxiv.org/abs/1506.01497)
+- [Fast R-CNN](https://arxiv.org/abs/1504.08083)
+- [R-FCN](https://arxiv.org/abs/1605.06409)
+- [Facebook Research](https://research.fb.com/publications/mask-r-cnn/)
+- [ResNeXt{50,101,152}](https://arxiv.org/abs/1611.05431)
+- [ResNet{50,101,152}](https://arxiv.org/abs/1512.03385)
+- [Feature Pyramid Networks](https://arxiv.org/abs/1612.03144) (with ResNet/ResNeXt)
+- [VGG16](https://arxiv.org/abs/1409.1556)
+- [Cirq](https://cirq.readthedocs.io/en/stable/)
+- [Neural Network with Quantum Computing](https://qiskit.org/textbook/ch-machine-learning/machine-learning-qiskit-pytorch.html)
