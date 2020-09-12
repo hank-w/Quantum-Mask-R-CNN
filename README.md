@@ -2,14 +2,23 @@
 Combing quantum computing using Qiskit with my Mask R-CNN model using PyTorch.
 
 
+### Table of contents
 [Introduction](#intro)
+
+[Setup](#setup)
+
+[Quick Setup](#quick-setup)
+
+[Running my demo](#demo)
+
+[Resources](#resources)
 
 ![alt text](https://github.com/hank-w/Quantum-Mask-R-CNN/blob/master/images/Renders/detectron.png)
 
 ![alt text](https://github.com/hank-w/Quantum-Mask-R-CNN/blob/master/images/Renders/Abbey%20Road%20Beatles%20MASK%20R-CNN.png)
 
 <a id="intro"></a>
-### Introduction
+## Introduction
 You may be asking, what is Quantum Mask R-CNN
 
 That's a great question! 
@@ -32,7 +41,8 @@ Mask R-CNN, is the inclusion of Masks as a form of additional data. As the bound
 
 Quantum Mask R-CNN, is my take on the neural network architecture, using Qiskit and quantum computing circuits to significantly speed up the process of both training a model and running the model on images or videos. Through parameter binding and expectation value evaluation, tensorization process can be optimized for each pixel. 
 
-# Setup Instructions 
+<a id="setup"></a>
+## Setup Instructions 
 Overview on how to install
 Step 1: create a conda virtual environment with python 3.6
 Step 2: install the dependencies
@@ -91,7 +101,8 @@ place the file in the Mask_RCNN directory
 Step 6 - Let's Test it!
 open up the demo.ipynb and run it
 
-# Quick Setup Instructions
+<a id="quick-setup"></a>
+## Quick Setup Instructions
 Quick setup will only use the basic features required and can only support images
 Requirements
 Python 3.4, TensorFlow 1.3, Keras 2.0.8 and other common packages listed in requirements.txt.
@@ -120,7 +131,8 @@ Download pre-trained COCO weights (mask_rcnn_coco.h5) from the releases page.
 Linux: https://github.com/waleedka/coco
 Windows: https://github.com/philferriere/cocoapi. You must have the Visual C++ 2015 build tools on your path (see the repo for additional details)
 
-# Running my demo
+<a id="demo"></a>
+## Running my demo
 Please Install Anaconda and Jupyter Notebooks:
 
 https://docs.anaconda.com/anaconda/install/
@@ -167,3 +179,6 @@ only images directly in the directory will be ran, the images in subfolders are 
 
 Once your at this step, you can keep running the cell over and over again, changing images inbetween! Make sure click the box each time you run 
 to see the output, which will be png that you can open in a new tab and save as your desktop background!
+
+<a id="resources"></a>
+## Resources
